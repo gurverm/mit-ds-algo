@@ -21,9 +21,9 @@ What is an algorithm?
 For birthday problem:
 * maintain record 
 * interview students in some order 
-*.1* check if birthday is in record
-*.2* if so return pair 
-*.1* else add new student to record
+*-* check if birthday is in record
+*-* if so return pair 
+*-* else add new student to record
 * return no pair
 
 
